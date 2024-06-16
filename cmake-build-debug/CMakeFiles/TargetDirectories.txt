@@ -1,0 +1,3 @@
+/home/vis/CLionProjects/openGL_test/cmake-build-debug/CMakeFiles/openGL_test.dir
+/home/vis/CLionProjects/openGL_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vis/CLionProjects/openGL_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
